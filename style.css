@@ -91,4 +91,11 @@ color:fuchsia;
 }
 .color{
 color:yellow;
+
+}
+h1{
+font-family: 'Dancing Script', cursive;
+}
+section{
+text-align:center;
 }
