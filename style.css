@@ -80,3 +80,15 @@ font-size:20px;
 .links:hover{
 background-color:royalblue;
 }
+html{
+scroll-behavior: smooth;
+}
+a{
+text-decoration:none
+}
+.hpl:hover{
+color:fuchsia;
+}
+.color{
+color:yellow;
+}
